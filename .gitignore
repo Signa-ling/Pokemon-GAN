@@ -1,0 +1,9 @@
+PokeGAN/
+.vscode/
+images_backup/
+images_by_type/
+pokedex.json
+src/utils/img_div4each_type.py
+Not_prepro_images/
+Weight/
+images/
